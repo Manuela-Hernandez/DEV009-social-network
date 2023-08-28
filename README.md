@@ -165,3 +165,10 @@ Para este proyecto utilizamos:
 3. jest.spy(object, property, interfaz). Haces un spy a la propiedad de un objeto y puedes determinar la interfaz y el comportamiento del mismo.
 
 ![test](src/img/readme/test.png)
+
+## Desarrolladoras
+
+- [@Manuela-Hernandez](https://github.com/Manuela-Hernandez)
+- [@abrilv29](https://github.com/abrilv29) 
+- [@Ingrid1802](https://github.com/Ingrid1802)
+
