@@ -203,9 +203,9 @@ export function feedView(userDisplayName) {
   emailGoogle.textContent = localStorage.getItem('userGmail');
 
   const cerrarSesion = createElement('div', 'cerrar_sesion', infoPerfil);
-  cerrarSesion.innerHTML = '<i class="fa-solid fa-right-from-bracket"></i> Cerrar Sesion';
+  cerrarSesion.innerHTML = '<i class="fa-solid fa-right-from-bracket"></i> Cerrar Sesión';
 
-  // Agregar evento click al botón 'cerrarSesion'
+  // Agregar evento click al botón 'cerrarSesión'
   cerrarSesion.addEventListener('click', async () => {
     localStorage.clear();
     window.location.href = `${window.location.origin}/`;
